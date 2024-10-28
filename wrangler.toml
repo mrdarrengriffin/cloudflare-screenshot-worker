@@ -1,4 +1,4 @@
-name = "browser-worker"
+name = "screenshot-service"
 main = "src/index.ts"
 compatibility_date = "2023-03-14"
 compatibility_flags = [ "nodejs_compat" ]
